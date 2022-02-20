@@ -1,9 +1,9 @@
 
-  # ff
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]
+  # readme generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description
-  f
+  generates a readme for your project
 
   ## Table of Contents
   -[Installation](#installation)
@@ -14,26 +14,24 @@
   -[Questions](#questions)
 
   ## Installation
-  f
+  cloneing the repo then running npm install in command line to download packages
 
   ## Usage
-  ff
+  in command line run node index to initalize the app then follow prompts
 
   ## License
-  
-  Copyright [2022] [ff]
-  Apache License v2.0
+  Copyright [2022] [Droth2]
+  MIT License
   see the License for the specific language governing permissions and limitations.
-  -(https://opensource.org/licenses/Apache-2.0)
-  
+  -(https://opensource.org/licenses/MIT)
 
   ## Contributions
-  fff
+  send push requests to repo
 
   ## Tests
   
 
   ## Questions
   Contact us
-  -https://github.com/ff
-  -f
+  -https://github.com/Droth2
+  -dillon.roth11@gmail.com
