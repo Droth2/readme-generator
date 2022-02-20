@@ -33,12 +33,10 @@ function renderLicenseSection(license, questionsGithub) {
     return '';
   }
 
-  return `
-  Copyright [${new Date().getFullYear()}] [${questionsGithub}]
+  return `Copyright [${new Date().getFullYear()}] [${questionsGithub}]
   ${license}
   see the License for the specific language governing permissions and limitations.
-  -${renderLicenseLink(license)}
-  `
+  -${renderLicenseLink(license)}`
 }
 
 // TODO: Create a function to generate markdown for README
