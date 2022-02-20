@@ -21,10 +21,10 @@
 
   ## License
   
-  ## Copyright [2022] [Droth2]
-  ## MIT License
+  ### Copyright [2022] [Droth2]
+  ### MIT License
   see the License for the specific language governing permissions and limitations.
-  ### -(https://opensource.org/licenses/MIT)
+  #### -(https://opensource.org/licenses/MIT)
   
 
   ## Contributions
