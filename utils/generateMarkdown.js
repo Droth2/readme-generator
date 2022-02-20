@@ -34,10 +34,10 @@ function renderLicenseSection(license, questionsGithub) {
   }
 
   return `
-  ### Copyright [${new Date().getFullYear()}] [${questionsGithub}]
-  ### ${license}
+  Copyright [${new Date().getFullYear()}] [${questionsGithub}]
+  ${license}
   see the License for the specific language governing permissions and limitations.
-  #### -${renderLicenseLink(license)}
+  -${renderLicenseLink(license)}
   `
 }
 
